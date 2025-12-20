@@ -58,7 +58,6 @@ Chaeco 是一个致力于创建**高质量、可靠的开源项目**的组织。
 
 - 📧 **GitHub Issues** - 在相关项目中提出问题
 - 💬 **Discussions** - 在仓库讨论区参与对话
-- 🌐 **官方网站** - 访问 [chaeco.com](https://chaeco.com) （如适用）
 
 ---
 
