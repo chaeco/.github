@@ -11,6 +11,7 @@ Chaeco 是一个致力于创建**高质量、可靠的开源项目**的组织。
 - 🚀 开发高质量的开源软件
 - 💡 提供实用的开发工具和库  
 - 🌍 支持全球开发者社区
+- 📚 分享知识和最佳实践
 
 ---
 
@@ -32,10 +33,19 @@ Chaeco 是一个致力于创建**高质量、可靠的开源项目**的组织。
 
 ### 🛠️ 实用工具
 
-| 项目 | 说明 |
-|------|------|
-| [logger](https://github.com/chaeco/logger) | 灵活的日志库 |
-| [website](https://github.com/chaeco/website) | 组织官方网站 |
+| 项目 | 说明 | 语言 |
+|------|------|------|
+| [logger](https://github.com/chaeco/logger) | 灵活的日志库 | TypeScript |
+| [website](https://github.com/chaeco/website) | 组织官方网站 | - |
+
+---
+
+## 🌟 项目特点
+
+- ✅ 生产级代码质量
+- ✅ 完整的文档和示例
+- ✅ 开源友好的许可证
+- ✅ 活跃的社区支持
 
 ---
 
@@ -79,5 +89,7 @@ Chaeco 是一个致力于创建**高质量、可靠的开源项目**的组织。
 <div align="center">
 
 **感谢关注 Chaeco 组织！如果你喜欢我们的项目，请给我们一个 ⭐**
+
+[![GitHub followers](https://img.shields.io/github/followers/chaeco?style=social)](https://github.com/chaeco)
 
 </div>
