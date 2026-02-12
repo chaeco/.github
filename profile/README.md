@@ -36,6 +36,7 @@ Chaeco 是一个致力于创建**高质量、可靠的开源项目**的组织。
 | 项目 | 说明 | 语言 |
 |------|------|------|
 | [logger](https://github.com/chaeco/logger) | 灵活的日志库 | TypeScript |
+| [htils](https://github.com/chaeco/htils) | 轻量级 TypeScript 工具库，提供常用工具函数 | TypeScript |
 | [website](https://github.com/chaeco/website) | 组织官方网站 | - |
 
 ---
@@ -80,7 +81,7 @@ Chaeco 是一个致力于创建**高质量、可靠的开源项目**的组织。
 
 ## 📊 项目统计
 
-- **6** 个公开项目
+- **7** 个公开项目
 - **TypeScript** 和 **HTML** 技术栈
 - 遵循 **MIT** 和 **BSD-3-Clause** 许可证
 
