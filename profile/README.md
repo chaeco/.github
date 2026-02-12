@@ -4,8 +4,8 @@
 
 **打造高质量开源工具，赋能全球开发者**
 
-[![GitHub followers](https://img.shields.io/github/followers/chaeco?style=social)](https://github.com/chaeco)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Projects](https://img.shields.io/badge/Projects-6-blue.svg)](https://github.com/orgs/chaeco/repositories)
 
 [关于我们](#-关于我们) • [主要项目](#-主要项目) • [技术栈](#-技术栈) • [如何参与](#-如何参与) • [联系方式](#-联系方式)
 
