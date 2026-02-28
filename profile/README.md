@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub](https://img.shields.io/badge/GitHub-chaeco-blue.svg)](https://github.com/chaeco)
 
-[关于我们](#-关于我们) • [技术方向](#-技术方向) • [如何参与](#-如何参与) • [联系方式](#-联系方式)
+[关于我们](#关于我们) • [技术方向](#技术方向) • [如何参与](#如何参与) • [联系方式](#联系方式)
 
 </div>
 
@@ -84,6 +84,6 @@
 
 如果你觉得我们的项目有帮助，欢迎给个 ⭐
 
-[⬆ 回到顶部](#-chaeco)
+[⬆ 回到顶部](#chaeco)
 
 </div>
